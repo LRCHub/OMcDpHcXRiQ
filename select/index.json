@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Sincerity Is Scary",
+  "base_artist": "The 1975",
+  "createdAt": "2026-03-13T12:59:00.194221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/01_Sincerity_Is_Scary_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/02_Sincerity_Is_Scary_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary",
+      "artist": "1975",
+      "has_synced": true,
+      "path": "select/03_Sincerity_Is_Scary_1975.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/04_Sincerity_Is_Scary_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary (Official Video)",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/05_Sincerity_Is_Scary_(Official_Video)_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sincerity Is Scary",
+      "artist": "Th",
+      "has_synced": true,
+      "path": "select/06_Sincerity_Is_Scary_Th.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sincerity Is Scary",
+      "artist": "The 1975",
+      "has_synced": false,
+      "path": "select/pl_01_Sincerity_Is_Scary_The_1975.txt"
+    }
+  ]
+}
